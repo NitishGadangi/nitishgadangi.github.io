@@ -73,6 +73,28 @@
 
 <!-- End Google Tag Manager (noscript) -->
 
+	<!--CSS Spinner-->
+	
+	
+<div class="spinner-wrapper">
+	<div class="outer">
+  <div class="middle">
+    <div class="inner">
+		<p style="text-align: center"><img src="intro-logo.png"  alt="logo" width="175" height="157" /><p/>
+<div class="spinner">
+  <div class="rect1"></div>
+  <div class="rect2"></div>
+  <div class="rect3"></div>
+  <div class="rect4"></div>
+  <div class="rect5"></div>
+	</div>
+     
+    </div>
+  </div>
+</div>
+	
+</div>
+	
     <!-- Popup Contact Form -->
     <div class="popup animated" data-popup-id="contact">
         <div class="close">
@@ -159,6 +181,20 @@
     <script src="js/plugins.js" type="text/javascript" name="plugins"></script>
     <script src="js/slides.js" type="text/javascript" name="main-scripts"></script>
     <script src="js/main.js"></script>
+		
+		<script>
+$(document).ready(function() {
+//Preloader
+$(window).on("load", function() {
+preloaderFadeOutTime = 500;
+function hidePreloader() {
+var preloader = $('.spinner-wrapper');
+preloader.fadeOut(preloaderFadeOutTime);
+}
+hidePreloader();
+});
+});
+</script>
 </body>
 
 </html>
