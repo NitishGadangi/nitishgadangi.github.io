@@ -183,16 +183,19 @@
     <script src="js/main.js"></script>
 		
 		<script>
-$(document).ready(function() {
-//Preloader
-$(window).on("load", function() {
-preloaderFadeOutTime = 500;
-function hidePreloader() {
-var preloader = $('.spinner-wrapper');
-preloader.fadeOut(preloaderFadeOutTime);
-}
-hidePreloader();
-});
+		
+			jQuery(document).ready(function ($) {
+    $(window).load(function () {
+        setTimeout(function(){
+			var preloader = $('.spinner-wrapper');
+			preloader.fadeOut('slow', function () {
+            });
+        },2000);
+		
+		// set the time here
+		
+		hidePreloader();
+    });  
 });
 </script>
 </body>
