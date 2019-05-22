@@ -15,7 +15,7 @@ $(window).load(function() {
 
         MESSAGES.push({
             delay: 1000,
-            text: ' —  Android Application Developer/Web Designer/ Photoshop , AI & XD expert;'
+            text: ' —  Android Application Developer/Web Designer/ Photoshop , AI & XD ;'
         });
         MESSAGES.push({
             delay: 1800,
@@ -23,7 +23,7 @@ $(window).load(function() {
         });
         MESSAGES.push({
             delay: 3200,
-            text: ' —  Independent programmer,Knows JAVA,Arduino,MongoDB,Basic Ethical hacking).'
+            text: ' —  Independent programmer,Knows JAVA,PYTHON,C,Arduino,MongoDB,Basic Ethical hacking).'
         });
         MESSAGES.push({
             delay: 3200,
