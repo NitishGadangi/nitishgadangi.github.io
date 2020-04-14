@@ -5169,9 +5169,9 @@
 					icon: "facebook",
 					url: "https://www.facebook.com/nitish.gadangi"
 				}, {
-					name: "Instagram",
-					icon: "instagram",
-					url: "https://www.instagram.com/so_called_geek/"
+					name: "Medium",
+					icon: "Medium",
+					url: "https://medium.com/@nitishgadangi"
 				}, {
 					name: "Whatsapp",
 					icon: "whatsapp",
