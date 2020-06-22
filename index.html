@@ -986,6 +986,8 @@ box-shadow:rgba( $color:rgb(23,42,69), $alpha:0.4 ) 8px 10px 10px;
 		if (searchParams.has('fbclid')) {
 			window.location.replace("http://nitishgadangi.github.io/");
 			console.log('redirection');
+		}else if (window.location.search.indexOf("buy_me_coffee")>=0){
+			window.location.replace("https://image.freepik.com/free-vector/coming-soon-construction-yellow-background-design_1017-25509.jpg");
 		}else if (window.location.search.indexOf("?")>=0){
 			window.location.replace("http://nitishgadangi.github.io/");
 		}
