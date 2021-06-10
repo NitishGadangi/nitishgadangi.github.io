@@ -1,0 +1,12 @@
+{
+  "extends": [
+    "@abhijithvijayan/eslint-config",
+    "@abhijithvijayan/eslint-config/react"
+  ],
+  "rules": {
+    "react/jsx-props-no-spreading": "warn",
+    "react/no-array-index-key": "warn",
+    "react/destructuring-assignment": "warn",
+    "react/no-set-state": "warn"
+  }
+}
