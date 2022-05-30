@@ -1,19 +1,11 @@
 self.__precacheManifest = [
   {
     "url": ".//_next/.//_next/build-manifest.json",
-    "revision": "41401be7e6eecd1816706857c4375380"
+    "revision": "9e07fda68c7241137acb07881c98608e"
   },
   {
     "url": ".//_next/.//_next/react-loadable-manifest.json",
     "revision": "99914b932bd37a50b983c5e7c90ae93b"
-  },
-  {
-    "url": ".//_next/.//_next/static/CzpnG2jYiqu6QYte7TfIW/_buildManifest.js",
-    "revision": "ff647b147923fd658773206086fb4e06"
-  },
-  {
-    "url": ".//_next/.//_next/static/CzpnG2jYiqu6QYte7TfIW/_ssgManifest.js",
-    "revision": "abee47769bf307639ace4945f9cfd4ff"
   },
   {
     "url": ".//_next/.//_next/static/chunks/71247caf95475e3ea7f9a0f8a30beb258b23d005.6270b807bbf9d3c26bb3.js",
@@ -41,7 +33,7 @@ self.__precacheManifest = [
     "url": ".//_next/.//_next/static/chunks/pages/_error-cd08b909a1ca6a66f325.js"
   },
   {
-    "url": ".//_next/.//_next/static/chunks/pages/index-06cd65163e460a981fb3.js"
+    "url": ".//_next/.//_next/static/chunks/pages/index-25a70533a26c308b021e.js"
   },
   {
     "url": ".//_next/.//_next/static/chunks/polyfills-a40ef1678bae11e696dba45124eadd70.js",
@@ -57,6 +49,14 @@ self.__precacheManifest = [
   {
     "url": ".//_next/.//_next/static/css/styles.25cfee8b.chunk.css",
     "revision": "a1f1a10a769542e74818"
+  },
+  {
+    "url": ".//_next/.//_next/static/hAbwm9HesBdIcf1YGR2n1/_buildManifest.js",
+    "revision": "50d3bba9a2989556996c03d7d20e4244"
+  },
+  {
+    "url": ".//_next/.//_next/static/hAbwm9HesBdIcf1YGR2n1/_ssgManifest.js",
+    "revision": "abee47769bf307639ace4945f9cfd4ff"
   }
 ];
 
@@ -76,7 +76,7 @@ self.__precacheManifest = [
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  ".//_next/precache-manifest.61c3f61d2645ce6173e12c892155c610.js"
+  ".//_next/precache-manifest.80fe53154d6b3e3257444d61db36a60b.js"
 );
 
 self.addEventListener('message', (event) => {
