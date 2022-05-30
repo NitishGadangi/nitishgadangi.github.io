@@ -10,6 +10,7 @@ const withOffline = require('next-offline');
 module.exports = withPlugins(
   [withCSS, withSass, withImages, withFonts, withOffline],
   {
+    webpack5: false,
     webpack(config, _options) {
       config.module.rules.push({
         test: /\.md$/,
