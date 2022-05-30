@@ -2,7 +2,7 @@
 date: "2021-06-01"
 title: "Technical Intern"
 company: "Rakuten India"
-range: "Jun 2021 - present"
+range: "Jun 2021 - Dec 2021"
 url: "https://global.rakuten.com/corp/"
 ---
 
