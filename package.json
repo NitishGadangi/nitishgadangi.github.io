@@ -70,7 +70,7 @@
     "less": "^4.1.2",
     "less-loader": "5",
     "lint-staged": "^9.5.0",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.3",
     "prettier": "^2.3.1",
     "raw-loader": "^3.1.0",
     "sass-extract": "^2.1.0",
