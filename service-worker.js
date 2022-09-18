@@ -1,39 +1,39 @@
 self.__precacheManifest = [
   {
     "url": ".//_next/.//_next/build-manifest.json",
-    "revision": "9e07fda68c7241137acb07881c98608e"
+    "revision": "95f2566c8fb4df19a7ca35869c677944"
   },
   {
     "url": ".//_next/.//_next/react-loadable-manifest.json",
     "revision": "99914b932bd37a50b983c5e7c90ae93b"
   },
   {
-    "url": ".//_next/.//_next/static/chunks/71247caf95475e3ea7f9a0f8a30beb258b23d005.6270b807bbf9d3c26bb3.js",
-    "revision": "241edc6b46051c2dbcc4"
+    "url": ".//_next/.//_next/static/chunks/71247caf95475e3ea7f9a0f8a30beb258b23d005.ca0603d66670b927c4bf.js",
+    "revision": "5a940921d3d4fa5a8615"
   },
   {
-    "url": ".//_next/.//_next/static/chunks/commons.61c34b9a80af5ece82f4.js",
-    "revision": "96185632cbc6c984b646"
+    "url": ".//_next/.//_next/static/chunks/commons.ae6b28ba5212c410c854.js",
+    "revision": "9f0b99e1fcec236627d5"
   },
   {
-    "url": ".//_next/.//_next/static/chunks/f6078781a05fe1bcb0902d23dbbb2662c8d200b3.c40f7baefb7ffa10f36e.js",
-    "revision": "94e4a9ba443d80848fe5"
+    "url": ".//_next/.//_next/static/chunks/f6078781a05fe1bcb0902d23dbbb2662c8d200b3.71de7335815ad041d813.js",
+    "revision": "a92bc104e209bc4b5133"
   },
   {
-    "url": ".//_next/.//_next/static/chunks/framework.5583dae4e509ec05c764.js",
-    "revision": "dc1eb100171879f6248a"
+    "url": ".//_next/.//_next/static/chunks/framework.1358241a61d6c7b05ab8.js",
+    "revision": "d246d4272315ef6b8020"
   },
   {
-    "url": ".//_next/.//_next/static/chunks/main-78aedcf5c17403569769.js"
+    "url": ".//_next/.//_next/static/chunks/main-0aa194fec94527c4ff2d.js"
   },
   {
-    "url": ".//_next/.//_next/static/chunks/pages/_app-003b0b720bdf74bec159.js"
+    "url": ".//_next/.//_next/static/chunks/pages/_app-2e214d5a902a8a563a84.js"
   },
   {
-    "url": ".//_next/.//_next/static/chunks/pages/_error-cd08b909a1ca6a66f325.js"
+    "url": ".//_next/.//_next/static/chunks/pages/_error-ff24003c5d0c7e57a1c0.js"
   },
   {
-    "url": ".//_next/.//_next/static/chunks/pages/index-25a70533a26c308b021e.js"
+    "url": ".//_next/.//_next/static/chunks/pages/index-355ec8cfb24ffb787cba.js"
   },
   {
     "url": ".//_next/.//_next/static/chunks/polyfills-a40ef1678bae11e696dba45124eadd70.js",
@@ -41,21 +41,21 @@ self.__precacheManifest = [
   },
   {
     "url": ".//_next/.//_next/static/chunks/styles.06d877452bfe5405af08.js",
-    "revision": "a1f1a10a769542e74818"
+    "revision": "0635357c59e9fde4243b"
   },
   {
     "url": ".//_next/.//_next/static/chunks/webpack-f6c2222b6dcea8dd931d.js"
   },
   {
-    "url": ".//_next/.//_next/static/css/styles.25cfee8b.chunk.css",
-    "revision": "a1f1a10a769542e74818"
+    "url": ".//_next/.//_next/static/css/styles.910a9556.chunk.css",
+    "revision": "0635357c59e9fde4243b"
   },
   {
-    "url": ".//_next/.//_next/static/hAbwm9HesBdIcf1YGR2n1/_buildManifest.js",
-    "revision": "50d3bba9a2989556996c03d7d20e4244"
+    "url": ".//_next/.//_next/static/e3qOiXUhlgxIy5_1_Ipkg/_buildManifest.js",
+    "revision": "76991db81b47a9ec7c248777f57570ff"
   },
   {
-    "url": ".//_next/.//_next/static/hAbwm9HesBdIcf1YGR2n1/_ssgManifest.js",
+    "url": ".//_next/.//_next/static/e3qOiXUhlgxIy5_1_Ipkg/_ssgManifest.js",
     "revision": "abee47769bf307639ace4945f9cfd4ff"
   }
 ];
@@ -76,7 +76,7 @@ self.__precacheManifest = [
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  ".//_next/precache-manifest.80fe53154d6b3e3257444d61db36a60b.js"
+  ".//_next/precache-manifest.0631e339422137515bff0a880d067220.js"
 );
 
 self.addEventListener('message', (event) => {
