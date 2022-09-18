@@ -3,7 +3,7 @@ module.exports = {
   email: "nitishgadangi@gmail.com",
   username: "@nitishgadangi",
 
-  siteTitle: "Nitish Gadangi | Android Developer",
+  siteTitle: "Nitish Gadangi | Mobile Developer",
   siteDescription: "I build things that aren't evil.",
   siteUrl: "https://nitishgadangi.github.io/",
   siteLanguage: "en-US",

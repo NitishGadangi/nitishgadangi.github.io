@@ -5,4 +5,4 @@ subtitle: "I build things that aren't evil."
 contactText: "Get In Touch"
 ---
 
-I'm an electronics engineering student based in Hyderabad, India specializing in developing exceptional, <strong>High quality Android / Web Applications</strong> and tools.
+I'm an electronics engineering student based in Hyderabad, India specializing in developing exceptional, <strong>High quality Android, iOS and Web Applications</strong> and tools.

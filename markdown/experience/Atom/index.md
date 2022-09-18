@@ -12,3 +12,4 @@ url: "https://www.linkedin.com/company/atomei/"
 - Redesigned the Backend Schema to make it efficiently scalable.
 - Implemented various new modules to Core App including OnBoarding, StartUp and UI Optimization(Cold and warm boot), Handling User Timezone change, and DST issues.
 - Worked on CI/CD integration for automatic Apk dispatch.
+- Skills : `Android Native`, ` Firebase`, ` Jetpack`
